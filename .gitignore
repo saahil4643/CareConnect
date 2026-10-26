@@ -1,0 +1,9 @@
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+*.log
+npm-debug.log*
